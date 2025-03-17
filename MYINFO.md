@@ -1,7 +1,9 @@
 # 취미 : easy listening
 
-# MBTI : INTP
+## 스타일 구성
 
-# BloodType : AB+
+## MBTI : INTP
 
-# 좋아하는 음식 : salmon
+## BloodType : AB+
+
+## 좋아하는 음식 : salmon
