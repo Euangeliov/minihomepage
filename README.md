@@ -44,6 +44,7 @@ GitHub는 Git을 기반으로 한 협업 플랫폼입니다. 다음 단계를 �
 3. **원격 저장소 연결:**
 
 `git remote add origin <GitHub 저장소 URL>`
+`<br>
 `git push origin main`
 
 ![Git 로고](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
