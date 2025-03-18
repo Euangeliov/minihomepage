@@ -25,6 +25,10 @@
 
 - cart.md 추가
 
+## Sidebar
+
+- sidebar.md 추가
+
 ## Footer
 
 - footer.md 추가
