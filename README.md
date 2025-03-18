@@ -3,6 +3,7 @@
 ## Navigation
 
 - navigation.md 추가
+- Log in/out 추가
 
 ## 취미 : easy listening
 
