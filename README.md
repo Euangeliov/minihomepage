@@ -4,6 +4,11 @@
 
 - about.md 추가
 
+## Navigation
+
+- navigation.md 추가
+- Log in/out 추가
+
 ## 취미 : easy listening
 
 ## MBTI : INTP
