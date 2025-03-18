@@ -1,3 +1,9 @@
+# MiniHompage_Euangeliov
+
+## Navigation
+
+- navigation.md 추가
+
 ## 취미 : easy listening
 
 ## MBTI : INTP
