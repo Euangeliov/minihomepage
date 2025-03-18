@@ -9,3 +9,7 @@
 ## WOD : Pull up
 
 ## 스크립트 추가
+
+## Purchase
+
+- purchase.md 추가
