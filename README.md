@@ -23,4 +23,8 @@
 
 ## Cart
 
-- cart.md 생성
+- cart.md 추가
+
+## Footer
+
+- footer.md 추가
